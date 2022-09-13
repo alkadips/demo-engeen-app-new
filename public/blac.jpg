@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+	<title>info-svg</title>
+	<defs>
+		<image  width="20" height="20" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAMAAAC6V+0/AAAAAXNSR0IB2cksfwAAADlQTFRFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvHZQPQAAABN0Uk5TAEA/EK/f/59Q78CgsCDw4L8w0AZwAj4AAACUSURBVHicVVBXAkMhCNOieW5t73/Yog8XH4woI1Fqmv6o28hYsNmHNuY8IyGw825iEUi5JzkBj/xDWe+uYOTk4Y5J8H1uQjp3JkT2FfkEMyx74D6v1xrhLUKTCL3B2dHBVVxxLhLwi9/gY0ZVynESCYmchR4JiU1z0WNBzCuIwWieMgCtsSuHDBRrF7nGQ+RhWq/0D8UJBNOOc/mCAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Layer 1" href="#img1" x="0" y="0"/>
+</svg>
